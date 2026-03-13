@@ -194,3 +194,7 @@ Este laboratório permitiu praticar conceitos importantes de computação em nuv
 - Automação baseada em eventos do **Amazon S3**
 - Envio de notificações utilizando **Amazon SNS**
 - Monitoramento com **Amazon CloudWatch**
+
+## 📄 Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](./license) para mais informações.
